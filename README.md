@@ -9,7 +9,7 @@ Welcome to **My Library** — a curated collection of book notes, summaries, and
 - `notes/` — Personal notes and reflections from books I've read
 - `summaries/` — Concise summaries of key ideas and themes
 - `resources/` — External links, articles, and tools related to the books
-- `categories/` — Books grouped by genre, author, or topic
+- `books/` — Books grouped by genre, author, or topic
 
 ---
 
