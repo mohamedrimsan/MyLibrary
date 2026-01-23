@@ -10,6 +10,7 @@ Welcome to **My Library** — a curated collection of book notes, summaries, and
 - `summaries/` — Concise summaries of key ideas and themes
 - `resources/` — External links, articles, and tools related to the books
 - `books/` — Books grouped by genre, author, or topic
+- `videos/` — Videos grouped by topic
 
 ---
 
